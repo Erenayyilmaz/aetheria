@@ -1,0 +1,10 @@
+^C:\COURSES\GRAD1\AETHERIA\BUILD\WINDOWS\X64\CMAKEFILES\EEA8627CEB1969F1319132395F34C49A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/courses/grad1/aetheria/windows -BC:/courses/grad1/aetheria/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/courses/grad1/aetheria/build/windows/x64/aetheria.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

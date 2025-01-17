@@ -1,0 +1,28 @@
+^C:\COURSES\GRAD1\AETHERIA\BUILD\WINDOWS\X64\CMAKEFILES\F840F3157F03BAA9CAB37003FDF5A816\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\HP\Downloads\flutter_windows_3.27.1-stable\flutter PROJECT_DIR=C:\courses\grad1\aetheria FLUTTER_ROOT=C:\Users\HP\Downloads\flutter_windows_3.27.1-stable\flutter FLUTTER_EPHEMERAL_DIR=C:\courses\grad1\aetheria\windows\flutter\ephemeral PROJECT_DIR=C:\courses\grad1\aetheria FLUTTER_TARGET=lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=true PACKAGE_CONFIG=C:\courses\grad1\aetheria\.dart_tool\package_config.json C:/Users/HP/Downloads/flutter_windows_3.27.1-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\COURSES\GRAD1\AETHERIA\BUILD\WINDOWS\X64\CMAKEFILES\140A895AA555DBE34739E9D6DE5E4ECA\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\COURSES\GRAD1\AETHERIA\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/courses/grad1/aetheria/windows -BC:/courses/grad1/aetheria/build/windows/x64 --check-stamp-file C:/courses/grad1/aetheria/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

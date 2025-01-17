@@ -1,0 +1,13 @@
+C:/courses/grad1/aetheria/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/courses/grad1/aetheria/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/courses/grad1/aetheria/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/courses/grad1/aetheria/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/courses/grad1/aetheria/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/courses/grad1/aetheria/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/courses/grad1/aetheria/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/courses/grad1/aetheria/build/windows/x64/runner/CMakeFiles/aetheria.dir
+C:/courses/grad1/aetheria/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/courses/grad1/aetheria/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+C:/courses/grad1/aetheria/build/windows/x64/plugins/flutter_webrtc/CMakeFiles/flutter_webrtc_plugin.dir
+C:/courses/grad1/aetheria/build/windows/x64/plugins/flutter_webrtc/CMakeFiles/INSTALL.dir
+C:/courses/grad1/aetheria/build/windows/x64/plugins/flutter_webrtc/CMakeFiles/ALL_BUILD.dir

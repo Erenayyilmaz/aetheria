@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\flutter_webrtc_plugin.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_common.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_data_channel.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_frame_cryptor.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_media_stream.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_peerconnection.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_frame_capturer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_video_renderer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_screen_capture.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_webrtc.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\common\cpp\src\flutter_webrtc_base.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\third_party\uuidxx\uuidxx.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\courses\grad1\aetheria\windows\flutter\ephemeral\.plugin_symlinks\flutter_webrtc\windows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6EC6C80D-EF4D-345A-865B-8EBF76F13786}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

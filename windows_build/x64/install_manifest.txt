@@ -1,0 +1,14 @@
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/icudtl.dat
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/flutter_windows.dll
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/flutter_webrtc_plugin.dll
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/libwebrtc.dll
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.bin.json
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/flutter_assets/AssetManifest.json
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/flutter_assets/FontManifest.json
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/flutter_assets/NOTICES
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/flutter_assets/NOTICES.Z
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/courses/grad1/aetheria/build/windows/x64/runner/Release/data/app.so
